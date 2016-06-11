@@ -1,0 +1,29 @@
+{
+  "name": "nvd3-line-chart-tooltip-coordination",
+  "version": "1.0.0",
+  "description": "NVD3 Line Chart Tooltip Coordination",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardanalokesh/NVD3-Line-Chart-Tooltip-Coordination.git"
+  },
+  "keywords": [
+    "d3",
+    "dvd3",
+    "chart",
+    "tooltip"
+  ],
+  "author": "Lokesh Sardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sardanalokesh/NVD3-Line-Chart-Tooltip-Coordination/issues"
+  },
+  "homepage": "https://github.com/sardanalokesh/NVD3-Line-Chart-Tooltip-Coordination#readme",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.11.1"
+  }
+}
